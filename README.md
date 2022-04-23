@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @mosmo0220
-- 👀 I’m interested in web developnent and low level lang programing (ironic)
-- 🌱 I’m currently learning wasm for cpp and .net blazor
+# Its me @mosmo0220:
+- ☠️ I'm a student majoring in programming
+- 👀 I’m interested in web developnent and internet security
+- 🌱 I’m currently learning wasm(cpp), expressjs and flask
 - 📫 if u want to reach me, write to me on meil: pmomso2k@gmail.com
+
+## My projects:
+- Cattodo
+- HowToStayAnonymous
+
+## What it publishes?
+My frontend projects and applications. However, I never publish the application api, for security reasons
 
 <!---
 mosmo0220/mosmo0220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
