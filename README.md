@@ -6,11 +6,6 @@
 
 ![My stats:](https://github-readme-stats.vercel.app/api?username=mosmo0220&theme=github_dark)
 
-## My goals:
-* Cattodo
-* YallNote
-* HowToStayAnonymous
-
 ### What it publishes?
 My frontend projects and applications. However, I never publish the application api (if it is public), for security reasons
 
