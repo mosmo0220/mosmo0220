@@ -1,20 +1,15 @@
 # Its me @mosmo0220:
 - ☠️ I'm a student majoring in programming
 - 👀 I’m interested in web developnent and internet security
-- 🌱 I’m currently learning wasm(cpp), expressjs and flask
-- 📫 if u want to reach me, write to me on meil: momso2k@gmail.com
-
-### What it publishes?
-My frontend projects and applications. However, I never publish the application api (if it is public), for security reasons
 
 ### Lang in lerning (my stage):
-* Cplusplus (Begin obcject oriented)
-* Csharp (Easy websites and programs)
-* Python (Basic algorithms)
+* C++
+* JS
+* GoLang
 
-![My stats:](https://github-readme-stats.vercel.app/api?username=mosmo0220&theme=github_dark)
+![Stats:](https://github-readme-stats.vercel.app/api?username=mosmo0220&theme=github_dark)
 
-My computer:
+Computer:
 [UserBenchmarks: Game 72%, Desk 86%, Work 68%](https://www.userbenchmark.com/UserRun/53204678)  
 
 ||Model|Bench
