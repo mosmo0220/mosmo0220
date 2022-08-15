@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning wasm(cpp), expressjs and flask
 - 📫 if u want to reach me, write to me on meil: momso2k@gmail.com
 
-![My stats:](https://github-readme-stats.vercel.app/api?username=mosmo0220&theme=github_dark)
-
 ### What it publishes?
 My frontend projects and applications. However, I never publish the application api (if it is public), for security reasons
 
@@ -13,6 +11,8 @@ My frontend projects and applications. However, I never publish the application 
 * Cplusplus (Begin obcject oriented)
 * Csharp (Easy websites and programs)
 * Python (Basic algorithms)
+
+![My stats:](https://github-readme-stats.vercel.app/api?username=mosmo0220&theme=github_dark)
 
 My computer:
 [UserBenchmarks: Game 72%, Desk 86%, Work 68%](https://www.userbenchmark.com/UserRun/53204678)  
