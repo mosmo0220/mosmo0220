@@ -7,6 +7,7 @@
 
 ### My stage:
 * C++ (for desktop aplication)
+* C# (for desktop aplication)
 * JS (fullstack)
 * GoLang (api/learing)
 * Python (api/websecurity)
