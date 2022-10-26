@@ -2,7 +2,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=mosmo0220&theme=react&show_icons=true)
 
 ### About:
-* ☠️ I'm a student majoring in programming
+* ☠️ I'm a learing programming at home
 * 👀 I’m interested in web developnent and internet security
 
 ### My stage:
