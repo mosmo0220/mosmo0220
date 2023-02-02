@@ -5,13 +5,6 @@
 * ☠️ I'm a learing programming at home
 * 👀 I’m interested in web developnent and internet security
 
-### My stage:
-* C++ (for desktop aplication)
-* C# (for desktop aplication)
-* JS (fullstack)
-* GoLang (api/learing)
-* Python (api/websecurity)
-
 ### Computer:
 [UserBenchmarks: Game 72%, Desk 86%, Work 68%](https://www.userbenchmark.com/UserRun/53204678)  
 
