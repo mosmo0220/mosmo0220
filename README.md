@@ -1,9 +1,11 @@
 # Its me @mosmo0220:
-![](https://github-readme-stats.vercel.app/api?username=mosmo0220&theme=react&show_icons=true)
-
 ### About:
-* ☠️ I'm a learing programming at home
-* 👀 I’m interested in web developnent and internet security
+* ☠️ Studying information technology at Politechnika Wrocławska
+* 👀 Interested in backend technology, internet security, and machine learning
+
+### Projects:
+* Gasnote - fast digital notebook for studying
+* HowToStayAnonymous - step-by-step tutorial about computer privacy
 
 ### Computer:
 [UserBenchmarks: Game 72%, Desk 86%, Work 68%](https://www.userbenchmark.com/UserRun/53204678)  
