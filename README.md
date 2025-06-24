@@ -4,7 +4,7 @@
 * 👀 Interested in backend technology, internet security, and machine learning
 
 ### Projects:
-* log4daily - simple, FTX app for daily tasks and milestones with diary
+* log4daily / log4daily-TUI - simple app for daily tasks and milestones with diary
 * HowToStayAnonymous - step-by-step tutorial about computer privacy
 
 ### Computer:
